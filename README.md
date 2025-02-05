@@ -11,6 +11,15 @@ Once this script is fully refined, it will be publicly released.
 - **[⚔️] Combo**: Attacks enemy with consecutive skillshot & attack combos.
 - **[🛡️] Vanguard Bypass**: The most up to date Vanguard bypass is prioritized, including future patches.
 
+## Supported Champions
+
+- **Irelia**
+- **Ashe**
+- **Xerath**
+- **Yasuo**
+- **Lux** (Beta)
+- **Yone** (Beta)
+
 ## Notes
 
 To reiterate, this script's main objective is to have the most up to date Vanguard Bypasses along with detection from future patches; however, this script does not protect you from **manual bans**, and you should still use this script conservatively.
