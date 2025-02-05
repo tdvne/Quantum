@@ -1,4 +1,4 @@
-## Quantum v1.0.1
+## Quantum v1.0.1 - February 4th, 2025
 
 - **[🚀] Additions**
   - Added logic handler for Irelia's E Skillshot ability.
