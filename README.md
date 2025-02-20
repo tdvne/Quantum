@@ -17,7 +17,7 @@ Once this script is fully refined, it will be publicly released.
 - **Ashe**
 - **Xerath**
 - **Yasuo**
-- **Lux** (Beta)
+- **Lux**
 - **Yone** (Beta)
 
 ## Notes
