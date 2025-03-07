@@ -1,3 +1,14 @@
+## Quantum v1.0.2-HOTFIX - March 6th, 2025
+
+- **[🚀] Additions**
+  - Patched 3/05/25 League of Legends Update.
+
+- **[🛠️] Improvements & Adjustments**
+  - Improved Yone's R ability handler.
+
+- **[🗑️] Deprecations**
+  - N/A
+
 ## Quantum v1.0.2 - February 20th, 2025
 
 - **[🚀] Additions**
