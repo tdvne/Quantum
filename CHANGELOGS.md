@@ -1,3 +1,21 @@
+## Quantum v1.0.3 - March 11th, 2025
+
+- **[🚀] Additions**
+  - New Injecting Method (Contingent to Bypass Vanguard after updates)
+  - Added Viktor combo handler.
+  - Added Teemo combo handler.
+  - Added Lux's E mode option "rage" to update 3x faster. (performance issue will occur)
+
+- **[🛠️] Improvements & Adjustments**
+  - Improved Xerath's R prediction logic.
+  - Improved Yasuo's Q logic in combo handling.
+  - Improved Ashe's Q logic by reducing the minimum requirement to activate.
+  - Improved Yone's combo handler.
+  - Fixed Yone's E from activating at a non-appropriate time.
+
+- **[🗑️] Deprecations**
+  - N/A
+
 ## Quantum v1.0.2-HOTFIX - March 6th, 2025
 
 - **[🚀] Additions**
