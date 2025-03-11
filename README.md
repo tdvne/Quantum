@@ -18,7 +18,9 @@ Once this script is fully refined, it will be publicly released.
 - **Xerath**
 - **Yasuo**
 - **Lux**
-- **Yone** (Beta)
+- **Yone**
+- **Teemo** (Beta)
+- **Viktor** (Beta)
 
 ## Notes
 
